@@ -1,0 +1,4 @@
+#Fri Aug 04 01:50:16 NPT 2023
+base.0=C\:\\Users\\three\\OneDrive\\Desktop\\new\\Android Basics\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
