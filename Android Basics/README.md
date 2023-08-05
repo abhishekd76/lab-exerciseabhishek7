@@ -1,7 +1,8 @@
 DessertClicker - Code
 =====================
 
-Code for Android Basics Codelab.
+![basic](https://github.com/abhishekd76/lab-exerciseabhishek7/assets/117585209/bacbb1ce-fb77-443a-b8b5-a0a3240f4145)
+
 
 Introduction
 ------------
